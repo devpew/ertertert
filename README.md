@@ -1,4 +1,4 @@
-ZMK config
+ZMK config4
 for sklitkb Aurora Corne 
 with      nice nano v2;
           RGB per key backlight (chain length 21);
